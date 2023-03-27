@@ -21,7 +21,9 @@ Voici le câblage du projet:
 │   📜README.md
 │   📜montage.PNG
 |   📜tags.PNG
-└───📂HogwartsLegacyBroomstickControl
+└───📂SelfcheckarduinoHuskyLens
+     │
+     └───📜SelfcheckarduinoHuskyLens.ino
 
 
 ```
