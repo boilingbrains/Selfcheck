@@ -7,7 +7,7 @@ composants suivant:
 * Arduino Uno
 * HuskyLens
 * Boutons poussoirs
-* Ecran OLED SSD1351
+* Ecran OLED SSD1351 (:warning: ce n'est pas celui illustré sur le montage car son modèle Fritzing n'existe pas) 
 
 
 ## Montage électronique
