@@ -13,7 +13,7 @@ composants suivant:
 ## Montage électronique
 Voici le câblage du projet:
 
-![](montage.JPG#center)
+![](montage.jpg#center)
 
 ## Structure du projet
 ```
