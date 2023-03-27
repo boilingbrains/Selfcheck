@@ -1,4 +1,4 @@
-# Reproduction du principe de caisse automatique en magasin
+# Caisse automatique par vision ordinateur avec Arduino & HuskyLens
 
 ## Introduction: 
 L’idée c’est de reproduire le système de caisse auto . On scan un tag pour simuler l’achat d’un produit, le nom du produit scanné s’affiche sur l’écran et on a le total du panier qui s’incrémente.
@@ -13,7 +13,7 @@ composants suivant:
 ## Montage électronique
 Voici le câblage du projet:
 
-![](montage.PNG#center)
+![](montage.jpg#center)
 
 ## Structure du projet
 ```
@@ -31,7 +31,7 @@ Voici le câblage du projet:
 
 <span style="display:block;text-align:center">
 
-[![](minia.jpg#center)]()
+[![](minia.jpg#center)](https://youtu.be/UdwvAXWeUlc)
 
 </span>
 
