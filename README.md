@@ -19,8 +19,8 @@ Voici le câblage du projet:
 ```
 📦Project
 │   📜README.md
-│   📜montage.PNG
-|   📜tags.PNG
+│   📜montage.jpg
+|   📜tags.jpg
 └───📂SelfcheckarduinoHuskyLens
      │
      └───📜SelfcheckarduinoHuskyLens.ino
